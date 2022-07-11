@@ -1,7 +1,7 @@
 ---
-title: 'Demoseite 1'
+title: 'Pfandleihhaus Berlin'
 date: '11.05.2022'
-excerpt: 'Das ist ein Text'
+excerpt: 'Der Pfandleihhaus Berlin ist ein sicherer Ort, um Ihre Wertsachen zu halten'
 cover_image: '/images/posts/img3.jpg'
 ---
 

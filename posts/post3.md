@@ -1,57 +1,17 @@
 ---
-title: 'Demoseite 3'
+title: 'Umweltfreundliches Füllmaterial für Pakete und Geschenke von PresentFill'
 date: '12.05.2022'
-excerpt: 'Das ist ein neuer Text'
-cover_image: '/images/posts/img4.jpg'
+excerpt: 'PresentFill ist ein einzigartiges Füllmaterial für Geschenkverpackungen und Versandkartons. Es besteht aus 100% Recycling Papier Made in Germany'
+cover_image: '/images/posts/farbauswahl.jpg'
 ---
 
-Lorem markdownum fine incustoditam unda factura versum occuluere Aeneas, iuvat
-haec praepes [partes epulae](http://cui.com/), in egisse de. Caecisque ter
-manus. Munere in exhalat, ferre sed [habe quaeque saepe](http://ne.org/fretum)
-verba caput ferarum _nubila_? Patriam Cyparisse tamen, **saxum** fide postponere
-pavida ne omnes etiam, atque. Sonuit omina sed sine haerebat illic fit a mora
-in.
 
-1. Serrae enim Etruscam aquis
-2. Et premis et flumine frontem minatur oppressos
-3. Inquam rector Icarus possum vim tumulo propiusque
-4. Vulnus se Latreus
-5. Aptumque bis
 
-## Turpius Aegides membris colat volentes fallere
+# Umweltfreundliches Füllmaterial für Pakete und Geschenke von PresentFill
 
-Ille fida formosus, et addunt viscera perdidit ad pondere quia tellus
-consequitur et quoque scinditque in. Ratis laborum instabat quaedam partem
-Phoebus, manus _partibus poenas_. Sola armos adhuc; chaos agit ora manifesta
-procul fugitque corpora iugales!
+PresentFill ist ein [einzigartiges Füllmaterial](https://www.einfach-gut-kaufen.de/geschenkverpackung-und-weinverpackung/fuellmaterial-und-polstermaterial/) für Geschenkverpackungen und Versandkartons. Es besteht aus 100% Recycling Papier Made in Germany mit einer Zickzack-Akkordeon-Struktur, um einen kompakten Polsterschutz zu gewährleisten. Seine Elastizität und Flexibilität wird durch die Struktur der Papierfasern verbessert. Stöße werden absorbiert und empfindliche Gegenstände geschützt. Im Gegensatz zu anderen Verpackungsmaterialien wird PresentFill Füllmaterial zu 100% recycelt und kann fast staubfrei verarbeitet werden. Diese Verpackungsmaterialien sind nicht nur umweltfreundlich und nachhaltig, sondern eignen sich auch hervorragend für Geschenkverpackungen und Versandverpackungen.
 
-    var ethics_font_drive = cycleSystemProgram + deprecatedTransferIp.ide(3) /
-            rgb + nybbleBaseband;
-    permalinkCertificateMacintosh(ergonomicsIsdnDns);
-    boot = bridgeDaemonActive;
+## PresentFill dekorativ mit optimalem Schutz
 
-## O contra diu
-
-Descendit _auras cum misi_ contactu tenax lacus, **quaerensque invitum
-premuntur** patria. Puris ille pictis spiritus placent vestigia et noctis
-sceleratos laudis egere retroque. Patrem contenta magni margine satis inprudens
-nymphae invito verba saepe: genus sed numinis pugnat meum iterumque attonitas
-rursus utve. Constituit praestet liceat opprobria Medusae huius, excutiuntque
-nam nil, pariter.
-
-Coma **laudes manet** ausus hortaturque matrisque Veneris proximus tu iamque
-aptius claudit. Tmolus tetigere iussos animumque quid poplite Hippotaden? Quod
-sibi Spartana sidera, lupum Nereusque quoque ramum, vertuntur Peleus Amuli
-oscula: tamen. Surgere Epidaurius movit crede soceri Euboicam quoque.
-
-Unde stabant, acuta, percussit denique; hoc illic et herbis minimas parvum? Quid
-_gemino profectus et_ dici postquam tot; aquarum quod relanguit est si
-quodcumque. Ossaque protinus, quod somno est, repetit, hoc passu est. Qui devia;
-respice humum vobis oscula, in Lotis nymphae.
-
-Dolet certamina velle dexteriore mutatus saepe, tellure ubi unguibus, gestu.
-Illis cuius finem Sirenes adsueta stridore, pictas quo edidit, nec utque et
-capillos ego rapi Bootes, sculpsit. Protinus sibi denique sibi primum Acheloides
-ante exspectant gaudeat Calydonius cernit, duxit pariterque dolet epulis? Nostri
-visae nisi aeripedes stant quem saepibus cannis protectus candens praestet:
-porrigar **patriam** Alcmene: attonitas.
+Die Marke PresentFill produziert dekoratives Verpackungsmaterial und Füllmaterial zu 100% aus Recycling Papier aus und in Deutschland. Es besteht aus dünnen Streifen aus zum größten Teil farbigem recyceltem Papier, die in Akkordeon-Zickzack gefaltet sind. Seine schockabsorbierenden Eigenschaften schützen zerbrechliche Produkte und sind zu 100% recyclingfähig. Es ist auch nicht statisch und nahezu staubfrei, was es zum perfekten Füllmaterial für Geschenkkörbe und andere Geschenkverpackungen macht. PresentFill ist ideal zum Verpacken unterschiedlichster Artikel und Produkte.
+PresentFill ist ein Füllmaterial auf Reclingpapierbasis, das beim Öffnen sein Volumen um ein Vielfaches erhöht. Es kommt in Paketen von 2, 5 und 10 kg. Sie sind in siebzehn verschiedenen Farben erhältlich und verleihen der Verpackung des Geschenks nicht nur Schutz, sondern auch ein dekoratives Aussehen. PresentFill ist das ideale Verpackungsmaterial für Geschenke, da seine Zickzack-Akkordeon Streifen ein Polstermaterial bieten, das zerbrechliche Gegenstände sicher schützt.

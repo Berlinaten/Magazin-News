@@ -1,7 +1,7 @@
 ---
 title: 'Getrocknete Pilze - Nahrhaft und schmackhaft'
 date: '11.05.2022'
-excerpt: 'Es gibt viele Vorteile, einen Augenbrauenlift zu bekommen'
+excerpt: 'Trockene Pilze sind eine großartige Alternative zu Dosen oder gefrorenen. Trockenpilze haben viele Vorteile und sie werden Monate in der Speisekammer halten.'
 cover_image: '/images/posts/getrocknete-pilze.jpg'
 ---
 

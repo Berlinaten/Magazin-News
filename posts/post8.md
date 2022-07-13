@@ -1,7 +1,7 @@
 ---
 title: 'Laufschuhe - Polsterung, Unterstützung und Passform'
 date: '13.07.2022'
-excerpt: 'Laura Vita ist eine französische Marke, die 2004 gegründet wurde. Mit ihrem vielseitigen, teils ausgefallenen Stil und ihrem Engagement für die Fertigung bequemer Schuhe machte sich die Marke schnell einen Namen.'
+excerpt: 'In diesem Artikel decken Sie die Arten von Polsterung, Unterstützung und Passform gut ab. Nun, diskutieren Sie auch Marken. Nachfolgend sind die Funktionen jeder Art von Laufschuh aufgeführt.'
 cover_image: '/images/posts/laufschuhe.jpg'
 ---
 

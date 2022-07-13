@@ -1,7 +1,7 @@
 ---
 title: 'Die Vorteile des Augenbrauenlifting'
 date: '11.05.2022'
-excerpt: 'Das ist der 4. text'
+excerpt: 'Es gibt viele Vorteile, einen Augenbrauenlift zu bekommen'
 cover_image: '/images/posts/img4.jpg'
 ---
 # Die Vorteile des Augenbrauenlifting

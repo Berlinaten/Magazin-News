@@ -1,7 +1,9 @@
 ---
-title: 'Zykluscomputer – Erfahrungen'
+title: 'Was ist ein Sneaker?'
 date: '20.02.2022'
-excerpt: 'Der Pearl-Index von Raymond Pearl ist ein Maß für die Wirksamkeit von Verhütungsmethoden'
+excerpt: 'Wenn Sie sich jemals gefragt haben, was für ein Paar Turnschuhe ist, suchen Sie nicht weiter als Ihre Garderobe. Sneaker, die ursprünglich für Sport und körperliche Bewegung entwickelt wurden, haben ihren Weg in den alltäglichen Freizeitkleidung gefunden.
+
+'
 cover_image: '/images/posts/zykluscomputer.jpg'
 ---
 

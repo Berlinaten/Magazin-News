@@ -1,7 +1,7 @@
 ---
-title: 'Laufschuhe - Polsterung, Unterstützung und Passform'
-date: '13.07.2022'
-excerpt: 'In diesem Artikel decken Sie die Arten von Polsterung, Unterstützung und Passform gut ab. Nun, diskutieren Sie auch Marken. Nachfolgend sind die Funktionen jeder Art von Laufschuh aufgeführt.'
+title: 'Zykluscomputer -  Erfahrung'
+date: '10.02.2023'
+excerpt: 'Der Pearl-Index von Raymond Pearl ist ein Maß für die Wirksamkeit von Verhütungsmethoden.'
 cover_image: '/images/posts/laufschuhe.jpg'
 ---
 

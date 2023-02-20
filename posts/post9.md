@@ -1,7 +1,7 @@
 ---
 title: 'Zykluscomputer -  Erfahrung'
 date: '10.02.2023'
-excerpt: 'Der Pearl-Index von Raymond Pearl ist ein Maß für die Wirksamkeit von Verhütungsmethoden.'
+excerpt: 'Der Pearl-Index von Raymond Pearl ist ein Maß für die Wirksamkeit von Verhütungsmethoden'
 cover_image: '/images/posts/laufschuhe.jpg'
 ---
 
@@ -21,6 +21,6 @@ Der Hormontest enthält einen kleinen Teststäbchen und einen tragbaren Monitor,
 
 Das Überprüfungstool kann eine sofortige Entscheidung über die Ergebnisse eines Schwangerschaftstests liefern, sodass Sie sofort feststellen können, ob Sie schwanger sind. Der Test prüft auf zwei Hormone: Fruchtbarkeit.
 
-Der Urincomputer misst eine Einwegspritze sowie einen Monitor, der am Bildschirm befestigt ist. Der Monitor korreliert den Zweck des Hormonscreenings mit dem festgestellten Spiegel. Untersucht werden zwei Hormone: das Fruchtbarkeitshormon und das Krebshormon. 
+Der Urincomputer misst eine Einwegspritze sowie einen Monitor, der am Bildschirm befestigt ist. Der Monitor korreliert den Zweck des Hormonscreenings mit dem festgestellten Spiegel. Untersucht werden zwei Hormone: das Fruchtbarkeitshormon und das Krebshormon.  
 
 

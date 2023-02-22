@@ -25,3 +25,4 @@ Das Überprüfungstool kann eine sofortige Entscheidung über die Ergebnisse ein
 Der Urincomputer misst eine Einwegspritze sowie einen Monitor, der am Bildschirm befestigt ist. Der Monitor korreliert den Zweck des Hormonscreenings mit dem festgestellten Spiegel. Untersucht werden zwei Hormone: das Fruchtbarkeitshormon und das Krebshormon.  
 
 
+
